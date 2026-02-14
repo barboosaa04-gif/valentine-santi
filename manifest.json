@@ -1,0 +1,8 @@
+{
+  "name": "Our First Valentine Together ❤️",
+  "short_name": "Valentine ❤️",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffe6eb",
+  "theme_color": "#ff4d6d"
+}
